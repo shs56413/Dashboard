@@ -19,7 +19,7 @@
     "@ant-design/pro-form": "^2.31.2",
     "@ant-design/pro-layout": "^7.21.2",
     "ahooks": "^3.8.4",
-    "antd": "^5.22.7",
+    "antd": "^6.1.1",
     "dayjs": "^1.11.13",
     "rc-virtual-list": "^3.17.0",
     "react": "^19.0.0",
